@@ -1,5 +1,5 @@
 # tip-time-android-app
-This repository contains project files of android application named __"Tip Time"__.
+This repository contains project files of an android application named __"Tip Time"__.
 
 ## Programming Language Used:
 ```
